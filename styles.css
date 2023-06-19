@@ -1,0 +1,263 @@
+#logo{
+    height:60px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.box1{
+    display: flex;
+}
+.box2{
+    display: flex;
+    margin-left: 360px;
+}
+.box2 li{
+    margin-left: 50px;
+    font-size: 20px;
+    
+}
+li:hover{
+    color: rgb(38,120,180);
+}
+.im1{
+    height: 20px;
+    margin-top: 13px;
+    margin-left: 300px;
+}
+.im2{
+    height: 20px;
+    margin-top: 13px;
+    margin-left: 30px;
+}
+.Home{
+    background-color: rgb(96,186,232);
+    display: flex;
+    height: 600px;
+}
+.b1{
+    height: 300px;
+    width: 50%;
+    margin-top: 80px;
+    margin-left: 120px;
+    color: white;
+}
+.b1 h2{
+    font-size: 50px;
+}
+.b2{
+    margin-left: 100px;
+}
+.buttons{
+    display: flex;
+}
+#bu1{
+    background-color: white;
+    color: rgb(96,186,232);
+    border-radius: 50px;
+    text-align: center;
+    width: 130px;
+    padding: 14px;
+    font-size: 17px;
+}
+#bu2{
+    border: solid;
+    margin-left: 30px;
+    margin-top: 10px;
+    border-radius:50px ;
+    padding: 10px;
+    width: 100px;
+    text-align: center;
+}
+.logoline{
+    display: flex;
+    padding: 50px;
+}
+#l1{
+    height: 120px;
+    margin-left: 85px;
+}
+#l2{
+    height: 120px;
+    margin-left: 85px;
+}
+#l3{
+    height: 120px;
+    margin-left: 85px;
+}
+#l4{
+    height: 120px;
+    margin-left: 85px;
+}
+#l5{
+    height: 120px;
+    margin-left: 85px;
+}
+.about{
+    background-color: rgb(160, 220, 250);
+    height: 700px;
+    display: flex;
+}
+.ab1{
+    width: 60%;
+    
+}
+.section1{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 90px;
+}
+#s1ab1{
+    height: 250px;
+    width: 350px;
+    margin-right: 30px;
+    border-radius: 10px;
+    box-shadow: 8px 8px rgba(0, 0, 0, 0.356);
+}
+#s1ab2{
+    height: 250px;
+    width: 350px;
+    border-radius: 10px;
+    
+    box-shadow: 8px 8px rgba(0, 0, 0, 0.356);
+}
+#s2ab1{
+    height: 300px;
+    width: 700px;
+    margin-left: 100px;
+    margin-top: 30px;
+    border-radius: 5%;
+    box-shadow: 8px 8px rgba(0, 0, 0, 0.356);
+}
+.ab2{
+    margin-top: 180px;
+    margin-left: 80px;
+}
+.ab2 h2{
+    font-size: 35px;
+}
+.ab2 button{
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color: rgba(240, 248, 255, 0); 
+    border-radius: 5px;
+    width: 130px;
+    padding-top: 10px;
+    padding-bottom: 10px;  
+}
+.t1{
+    margin-top: 100px;
+    text-align: center;
+}
+.t1 p{
+    margin-top: 50px;
+}
+.t1 ul{
+    display: flex;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+.t1 ul li{
+    margin-left: 30px;
+    font-weight: 500;
+}
+.t1 ul li :hover{
+    color: blue;
+} 
+.t2{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+.tb1{
+    background-color: rgba(252, 250, 248, 0.968);
+    height: 300px;
+    width: 300px;
+    margin: 30px;
+    padding: 30px;
+    border-radius: 4px;
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.1);
+}
+#tb12{
+    height: 260px;
+    width: 180px;
+    margin-left: 70px;
+}
+.t3{
+    display: flex;
+    margin-top: -60px;
+}
+.t31{
+    margin-left: 100px;
+    text-align: center;
+    margin-right: 100px;
+    width: 200px;
+}
+#pi1{
+    font-weight: bold;
+    font-size: 18px;
+}
+#pi2{
+    font-weight: bold;
+    color: rgb(96,186,232)
+}
+video{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color:  rgba(96, 187, 232, 0.388);
+    width: 100%;
+}
+footer{
+    background-color:  rgb(96,186,232);
+    height: 400px;
+    display: flex;
+}
+.sec1{
+    color: white;
+    margin-top: 50px;
+    margin-left: 140px;
+    width: 20%;
+}
+.foic{
+    display: flex;
+    height: 30px;
+}
+.foic div img{
+    margin-top: 30px;
+    height: 30px;
+    padding: 20px;
+}
+.services{
+    display: flex;
+}
+.k1{
+    color: white;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.k1 ul{
+    padding: 5px;
+}
+.k1 ul li{
+    margin-top: 10px;
+}
+.mail{
+    color: white;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.mail input{
+    padding: 5px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.mail textarea{
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.mail button{
+    background-color: aliceblue;
+    margin-top: 10px;
+    border: solid;
+    border-radius: 10px;
+    padding: 5px;
+    width: 100px;
+}
